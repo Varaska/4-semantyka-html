@@ -1,0 +1,47 @@
+#menu {
+    background-color: rgb(156, 109, 200);
+    text-align: center;
+}
+
+ul {
+    display: inline-block;
+    list-style: none;
+
+}
+
+li {
+    display: inline-block;
+    margin: 10px;
+}
+
+#header {
+
+    background-color: rgb(183, 168, 107);
+    text-align: center
+}
+
+#main-header-text {
+    text-align: center; 
+    margin: 2%;
+  }
+  
+#about {
+
+    background-color: rgb(174, 154, 194);
+}
+
+#about p {
+    border: 1px solid black;
+}
+
+#about-content {
+
+    background-color: rgb(218, 151, 221);
+}
+
+footer {
+    display: inline-block;
+    border: 1px solid black;
+    text-align: center;
+    padding: 10px;
+}
